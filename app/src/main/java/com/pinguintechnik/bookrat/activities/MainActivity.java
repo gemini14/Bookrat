@@ -1,4 +1,4 @@
-package com.pinguintechnik.bookrat;
+package com.pinguintechnik.bookrat.activities;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -7,6 +7,9 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
+
+import com.pinguintechnik.bookrat.R;
+import com.pinguintechnik.bookrat.fragments.LibraryFragment;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

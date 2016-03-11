@@ -1,4 +1,4 @@
-package com.pinguintechnik.bookrat;
+package com.pinguintechnik.bookrat.fragments;
 
 
 import android.app.Fragment;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.pinguintechnik.bookrat.R;
 
 import butterknife.ButterKnife;
 
