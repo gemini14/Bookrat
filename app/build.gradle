@@ -33,5 +33,8 @@ dependencies {
     compile 'com.jakewharton:butterknife:7.0.1'
 
     // for fetching book information
-    compile 'com.squareup.retrofit2:retrofit:2.0.0-beta4'
+    compile 'com.squareup.retrofit2:retrofit:2.0.0'
+
+    // for translating book information responses
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta4'
 }

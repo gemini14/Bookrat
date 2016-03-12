@@ -9,4 +9,10 @@ public class Book {
     private String ISBN;
     private String title;
     private ArrayList<String> authors;
+
+    public String getISBN() {
+        return ISBN;
+    }
+
+
 }
